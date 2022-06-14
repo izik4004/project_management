@@ -1,7 +1,10 @@
-import "./projectdetails"
+import "./projectdetails.css"
+
 
 export default function ProjectDetails() {
   return (
-    <div>ProjectDetails</div>
+    <div>
+        <h1>project</h1>
+    </div>
   )
 }
